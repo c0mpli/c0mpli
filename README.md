@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with people with similar interest.
-- 🥅 2022 Goals: Learn ReactJs, NodeJs, Django and Flutter.
+- 🥅 2022 Goals: Learn <b>ReactJs, NodeJs, Django and Flutter</b>.
 - ⚡ Fun fact: I love to play cricket, volleyball and talk about finance.
 - 📫 How to reach me <a href="mailto:jashdoshi99@gmail.com" target="_blank">jashdoshi99@gmail.com</a>
 
