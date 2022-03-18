@@ -1,7 +1,7 @@
 
 <h1 align="center">Greetings! 👋, I'm Jash aka[c0mplicated]</h1>
 <h3 align="center">Aspiring Web Developer &lt;/&gt;</h3>
-<img align="right" alt="GIF" src="profile.gif" width="400" height="320" />
+<img align="right" alt="GIF" src="profile2.gif" width="400" height="320" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c0mpli&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="c0mpli" /> </p>
 
 
