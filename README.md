@@ -7,8 +7,7 @@
 - ❤️ <a href="https://c0mpli.github.io/personalwebsite/"> Personal Website</a>
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with people with similar interest.
-- 🥅 2022 Goals: Learn <b>ReactJs, NodeJs and MongoDB</b>.
-- ⚡ Fun fact: I love to play cricket, volleyball and talk about finance.
+- ⚡ Fun fact: I love to play snooker, volleyball and talk about finance.
 - 📫 How to reach me <a href="mailto:jashdoshi99@gmail.com" target="_blank">jashdoshi99@gmail.com</a>
 
 ### Connect with me:
