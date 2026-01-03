@@ -13,8 +13,6 @@
   <img src="https://img.shields.io/github/stars/c0mpli?label=Stars&style=flat" />
 </p>
 
----
-
 ## 👋 About Me
 
 > *There is nothing you can’t do if you try.*
@@ -26,7 +24,6 @@
 - 💻 **SDE at Zappit.ai** (Led by VP from Vrgo & Canva)
 - 🏅 **Principal’s Excellence, Hall of Fame & 2× Leadership Awardee**
 
----
 
 ## 🤝 Connect With Me
 
