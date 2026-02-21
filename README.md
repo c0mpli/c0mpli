@@ -17,7 +17,7 @@
 
 > *There is nothing you can’t do if you try.*
 
-- 🔬 **1x Founder**
+- 💡 **1x Founder**
 - 🔬 **Research at IIT Delhi**
 - 🏆 **11× Hackathon Winner**
 - 🚀 **3rd hire at pre-seed $2M startup (Humanisys)**
